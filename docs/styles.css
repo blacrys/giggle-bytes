@@ -3,18 +3,18 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f3f3f3;
+    background-color: #dadada;
 }
 
 header {
-    background: #333;
+    background: #2f2f2f;
     color: #ffffff;
     padding: 1rem 0;
     text-align: center;
 }
 
 .hosting-provider {
-    background: #fff;
+    background: #ffffff;
     margin: 1rem;
     padding: 1rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
